@@ -1,2 +1,6 @@
-# ascii-beatmap-visualizer
-super minimalistic beatmap visualizer
+# how to run
+
+`$ dotnet run osufile.osu`
+
+
+
